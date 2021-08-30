@@ -33,7 +33,12 @@ h1{
 .images{
     text-align: center;
 }
-.image{
+.image1{
+    width: 10%;
+    padding: 0  2rem;
+    
+}
+.image2{
     width: 10%;
     padding: 0  2rem;
     
